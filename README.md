@@ -1,4 +1,4 @@
-# Deobfuscate Script
+# Kramer Deobfuscator
 
 This repository provides a Python script designed to deobfuscate Python scripts obfuscated using the [Kramer](https://github.com/billythegoat356/Kramer) script. It supports automatic encoding detection and decryption using a specified key. The script allows you to recover readable source code from obfuscated Python files.
 
