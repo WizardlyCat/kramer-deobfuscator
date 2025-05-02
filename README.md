@@ -49,13 +49,13 @@ To obtain the bytecode, you just need to install and use pycdas : https://youtu.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/WizardlyCat/kramer_deobfuscator
+   git clone https://github.com/WizardlyCat/kramer-deobfuscator
    ```
 
 2. Navigate to the directory:
 
    ```bash
-   cd kramer_deobfuscator
+   cd kramer-deobfuscator
    ```
 
 3. Install the required dependencies using:
